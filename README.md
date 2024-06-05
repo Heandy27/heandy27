@@ -1,7 +1,17 @@
 # 💫 About Me:
 ¡Hola! Soy Andy Heredia, un programador junior de 28 años de Ecuador, apasionado por el desarrollo de software y siempre en busca de aprender y sobresalir. Trabajo con JavaScript, Python, React, Bootstrap, y Flask. Me encanta colaborar en proyectos innovadores y mejorar mis habilidades constantemente. Estoy ansioso por unirme a un equipo dinámico y contribuir con mi energía y perspectiva fresca. ¡Conectemos y hagamos algo increíble juntos!
-<div align="center">
 
+<h2>🌟 Top Skills 🌟</h2>
+<ul>
+  <li>Programming Languages: JavaScript, Python</li>
+  <li>Frameworks: Bootstrap, Flask</li>
+  <li>Databases: MySQL</li>
+  <li>Development Tools: Git, GitHub, Figma , Wordpress</li>
+  <li>Learning: Full Stack Mobile Ios & Kotlin</li>
+</ul>
+<div align="center">
+ 
+  
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heandy27/) 
 
