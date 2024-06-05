@@ -8,7 +8,7 @@ Soy un programador junior de 28 años de Ecuador, apasionado por el desarrollo d
   <li>Programming Languages: JavaScript, Python</li>
   <li>Frameworks: Bootstrap, Flask</li>
   <li>Databases: MySQL</li>
-  <li>Development Tools: Git, GitHub, Figma , Wordpress</li>
+  <li>Development Tools: Git, GitHub, Figma, Adobe Photoshop, Adobe Illutrator, Wordpress</li>
   <li>Learning: Full Stack Mobile Ios & Kotlin</li>
 </ul>
 <div align="center">
