@@ -1,6 +1,6 @@
 
 # ¡Hola! 👋 💫
-![](https://github.com/Heandy27/heandy27/blob/main/Comp-2.gif)
+![](https://github.com/Heandy27/heandy27/blob/main/Comp-1.gif)
 Soy un programador junior de 28 años de Ecuador, apasionado por el desarrollo de software y siempre en busca de aprender y sobresalir. Trabajo con JavaScript, Python, React, Bootstrap, y Flask. Me encanta colaborar en proyectos innovadores y mejorar mis habilidades constantemente. Estoy ansioso por unirme a un equipo dinámico y contribuir con mi energía y perspectiva fresca. ¡Conectemos y hagamos algo increíble juntos!
 
 <h2>🌟 Top Skills 🌟</h2>
