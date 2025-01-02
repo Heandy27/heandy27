@@ -1,6 +1,6 @@
 
 # ¡Hello! 👋 💫
-[![LinkedIn](https://github.com/Heandy27/heandy27/blob/main/Comp-1.gif)](https://www.linkedin.com/in/heandy27/) 
+[![github-background1.jpg](https://i.postimg.cc/851qst7k/github-background1.jpg)](https://postimg.cc/v1NPN77C)
 I am an iOS developer from Ecuador, passionate about software development and always eager to learn and excel. I work with Xcode, SwiftUIKIT, SwiftUI, Combine, and RXSwift. I love collaborating on innovative projects and constantly improving my skills. I am excited to join a dynamic team and contribute with my energy and fresh perspective. Let's connect and create something amazing together!
 
 <h2>🌟 Top Skills 🌟</h2>
