@@ -6,10 +6,10 @@ I am an iOS developer from Ecuador, passionate about software development and al
 <h2>🌟 Top Skills 🌟</h2>
 <ul>
   <li>Programming Languages: JavaScript, Python, Swift</li>
-  <li>Frameworks: Bootstrap, Flask</li>
+  <li>Frameworks: Bootstrap</li>
   <li>Databases: MySQL</li>
   <li>Development Tools: Git, GitHub, Figma, Adobe Photoshop, Adobe Illutrator, Wordpress</li>
-  <li>Learning: Full Stack Mobile Ios & Kotlin</li>
+  <li>Learning: Full Stack Mobile Ios</li>
 </ul>
 <div align="center">
  
