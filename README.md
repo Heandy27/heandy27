@@ -1,15 +1,14 @@
 
 # ¡Hello! 👋 💫
 [![github-background1.jpg](https://i.postimg.cc/851qst7k/github-background1.jpg)](https://postimg.cc/v1NPN77C)
-I am an iOS developer from Ecuador, passionate about software development and always eager to learn and excel. I work with Xcode, SwiftUIKIT, SwiftUI, Combine, and RXSwift. I love collaborating on innovative projects and constantly improving my skills. I am excited to join a dynamic team and contribute with my energy and fresh perspective. Let's connect and create something amazing together!
+I am a full stack iOS developer from Ecuador, passionate about software development and always eager to learn and excel. I work with Xcode, SwiftUIKIT, SwiftUI, Combine, and RXSwift. I love collaborating on innovative projects and constantly improving my skills. I am excited to join a dynamic team and contribute with my energy and fresh perspective. Let's connect and create something amazing together!
 
 <h2>🌟 Top Skills 🌟</h2>
 <ul>
   <li>Programming Languages: JavaScript, Python, Swift</li>
-  <li>Frameworks: Bootstrap</li>
+  <li>Frameworks: Bootstrap, Vapor</li>
   <li>Databases: MySQL</li>
   <li>Development Tools: Git, GitHub, Figma, Adobe Photoshop, Adobe Illutrator, Wordpress</li>
-  <li>Learning: Full Stack Mobile Ios</li>
 </ul>
 <div align="center">
  
