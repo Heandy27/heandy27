@@ -20,9 +20,9 @@ I am a Full Stack iOS Developer from Ecuador, passionate about software developm
 
 - **[Field Finder - App Store](https://apps.apple.com/ec/app/field-finder/id6746458682?l=en-GB&platform=iphone) | [GitHub Repo](https://github.com/Heandy27/App_FieldFinder.git)**: Field Finder is a mobile app developed with SwiftUI that helps users find nearby soccer fields and allows field owners to manage and publish their establishments with ease.
 
+- **[History Republic - App Store](https://apps.apple.com/us/app/history-republic/id6748970649?platform=iphone) | [GitHub Repo](https://github.com/Heandy27/app_history_republic.git)**: History Republic is a mobile app built with SwiftUI that brings the past to life by showcasing influential historical figures and their legacies.
+  
 ## 📂 GitHub Projects:
-
-- **[History Republic Swift UI](https://github.com/Heandy27/app_history_republic.git)**: History Republic is a mobile app built with SwiftUI that brings the past to life by showcasing influential historical figures and their legacies.
 
 - **[Rick & Morty Swift UI](https://github.com/Heandy27/Ricky-MortyApp.git)**: Rick & Morty is an app created with SwiftUI and connected to a REST API to display characters and details. It includes a Splash screen for the app's start, a dynamic Home screen to explore, and a Detail screen with unique information about each character.
 
