@@ -1,7 +1,15 @@
 
 # ¡Hello! 👋 💫
 
-I am a Full Stack iOS Developer from Ecuador, passionate about software development and always eager to learn and excel. I work with Xcode, SwiftUIKIT, SwiftUI, Combine, RXSwift and Vapor. I love collaborating on innovative projects and constantly improving my skills. I am excited to join a dynamic team and contribute with my energy and fresh perspective. Let's connect and create something amazing together!
+I am an iOS Developer focused on building real-world mobile applications, with experience delivering complete products from design to App Store publication.
+
+I have developed and published apps featuring StoreKit monetization, REST API integration, secure authentication using Keychain, and MVVM architecture. I also have experience working with backend development using Vapor and PostgreSQL, as well as integrating AI-powered features into mobile applications.
+
+In addition, I have hands-on experience in Android development using Kotlin and Jetpack Compose, applying MVVM architecture, dependency injection with Dagger Hilt, API consumption with Retrofit, and local persistence with Room.
+
+With a background in UI/UX design, I build applications that combine solid architecture, performance, and a polished user experience.
+
+I am currently seeking my first professional opportunity to contribute to a development team, grow in a collaborative environment, and continue evolving as a Mobile Engineer.
 
 <h2>🌟 Top Skills 🌟</h2>
 <ul>
