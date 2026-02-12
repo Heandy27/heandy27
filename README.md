@@ -26,7 +26,13 @@ I am a Full Stack iOS Developer from Ecuador, passionate about software developm
   
 ## 📂 GitHub Projects:
 
-- **[Rick & Morty Swift UI](https://github.com/Heandy27/Ricky-MortyApp.git)**: Rick & Morty is an app created with SwiftUI and connected to a REST API to display characters and details. It includes a Splash screen for the app's start, a dynamic Home screen to explore, and a Detail screen with unique information about each character.
+## Android Projects:
+
+- **[History Republic Jetpack Compose](https://github.com/Heandy27/HistoryRepublicCompose.git)**: History Republic is a mobile app built with Jetpack Compose that brings the past to life by showcasing influential historical figures and their legacies.
+
+## iOS Projects:
+
+- **[Rick & Morty Swift UI](https://github.com/Heandy27/HistoryRepublicCompose.git)**: Rick & Morty is an app created with SwiftUI and connected to a REST API to display characters and details. It includes a Splash screen for the app's start, a dynamic Home screen to explore, and a Detail screen with unique information about each character.
 
 - **[Netflix App UI KIT](https://github.com/Heandy27/Netflix-Project.git)**: The app allows users to explore movies and TV shows by fetching data from The Movie Database API (TMDB). It displays categories such as trending, popular, top-rated, and upcoming titles. The app also integrates WebKit for content previews and uses Core Data for saving favorites locally.
 
