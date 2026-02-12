@@ -5,8 +5,8 @@ I am a Full Stack iOS Developer from Ecuador, passionate about software developm
 
 <h2>🌟 Top Skills 🌟</h2>
 <ul>
-  <li>Programming Languages: JavaScript, Python, Swift, Kotlin</li>
-  <li>Frameworks: Bootstrap, Vapor, SwiftUI, UIKIT, Combine, CoreData, Jetpack Compose</li>
+  <li>Programming Languages: Swift, Kotlin</li>
+  <li>Frameworks: Vapor, SwiftUI, UIKIT, Combine, CoreData, Jetpack Compose, Room, Dagger Hilt, Retrofit</li>
   <li>Databases: MySQL, PostgresSQL</li>
   <li>Development Tools: Xcode, Git, GitHub, Figma, Adobe Photoshop, Adobe Illutrator, Wordpress, Android Studio</li>
 </ul>
