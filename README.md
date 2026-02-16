@@ -38,6 +38,8 @@ I am currently seeking my first professional opportunity to contribute to a deve
 
 - **[History Republic Jetpack Compose](https://github.com/Heandy27/HistoryRepublicCompose.git)**: History Republic is a mobile app built with Jetpack Compose that brings the past to life by showcasing influential historical figures and their legacies.
 
+- **[Rick & Morty Jetpack Compose](https://github.com/Heandy27/RickAndMortyCompose.git)**: Rick & Morty is an app created with Jetpack Compose and connected to a REST API to display characters and details. It includes a Splash screen for the app's start, a dynamic Home screen to explore, and a Detail screen with unique information about each character.
+
 ## iOS:
 
 - **[Rick & Morty Swift UI](https://github.com/Heandy27/HistoryRepublicCompose.git)**: Rick & Morty is an app created with SwiftUI and connected to a REST API to display characters and details. It includes a Splash screen for the app's start, a dynamic Home screen to explore, and a Detail screen with unique information about each character.
