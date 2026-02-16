@@ -42,7 +42,7 @@ I am currently seeking my first professional opportunity to contribute to a deve
 
 ## iOS:
 
-- **[Rick & Morty Swift UI](https://github.com/Heandy27/HistoryRepublicCompose.git)**: Rick & Morty is an app created with SwiftUI and connected to a REST API to display characters and details. It includes a Splash screen for the app's start, a dynamic Home screen to explore, and a Detail screen with unique information about each character.
+- **[Rick & Morty Swift UI](https://github.com/Heandy27/Ricky-MortyApp.git)**: Rick & Morty is an app created with SwiftUI and connected to a REST API to display characters and details. It includes a Splash screen for the app's start, a dynamic Home screen to explore, and a Detail screen with unique information about each character.
 
 - **[Netflix App UI KIT](https://github.com/Heandy27/Netflix-Project.git)**: The app allows users to explore movies and TV shows by fetching data from The Movie Database API (TMDB). It displays categories such as trending, popular, top-rated, and upcoming titles. The app also integrates WebKit for content previews and uses Core Data for saving favorites locally.
 
